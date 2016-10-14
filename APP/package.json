@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "This is a fucking and awesome project created with FrontEnd tools like HTML, CSS3 and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/edgarllu/JS-test.git)"
+  },
+  "keywords": [
+    "JS",
+    "HTML5",
+    "CSS3",
+    "Sass",
+    "npm"
+  ],
+  "author": "Edgar Paz <epazmore@gmail.com>",
+  "license": "ISC"
+}

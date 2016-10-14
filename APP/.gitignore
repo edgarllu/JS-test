@@ -1,0 +1,6 @@
+node_mdules
+npm-debug.log
+.DP_Store
+app/lib
+app/assets
+dist
