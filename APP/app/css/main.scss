@@ -1,6 +1,11 @@
+@import "../lib/bootstrap/dist/css/bootstrap.min.css";
+@import "../lib/normalize-css/normalize.css";
+
+
+
 @import "helpers/_variables";
 @import "base/_settings";
 @import "components/_navigation";
 @import "layout/_header";
-@import "pages/_header";
+@import "pages/_home";
 @import "themes/_default";
