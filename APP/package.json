@@ -18,5 +18,12 @@
     "npm"
   ],
   "author": "Edgar Paz <epazmore@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarllu/JS-test/issues"
+  },
+  "homepage": "https://github.com/edgarllu/JS#README",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
 }
